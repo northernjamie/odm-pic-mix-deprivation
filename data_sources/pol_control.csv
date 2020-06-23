@@ -1,0 +1,429 @@
+ONS_LA_code,LA_name,Tier,2014,2015,2016,2017,2019
+E07000223,Adur,District,CON,CON,CON,CON,CON
+E07000032,Amber Valley,District,LAB,CON,CON,CON,LAB
+E07000224,Arun,District,CON,CON,CON,CON,NOC
+E07000170,Ashfield,District,LAB,LAB,LAB,LAB,IND
+E07000105,Ashford,District,CON,CON,CON,CON,CON
+E07000004,Aylesbury Vale,District,CON,CON,CON,CON,CON
+E07000200,Babergh,District,NOC,CON,CON,CON,NOC
+E07000027,Barrow-in-Furness,District,LAB,LAB,LAB,LAB,LAB
+E07000066,Basildon,District,NOC,NOC,NOC,NOC,NOC
+E07000084,Basingstoke and Deane,District,NOC,CON,CON,CON,NOC
+E07000171,Bassetlaw,District,LAB,LAB,LAB,LAB,LAB
+E07000129,Blaby,District,CON,CON,CON,CON,CON
+E07000033,Bolsover,District,LAB,LAB,LAB,LAB,NOC
+E07000136,Boston,District,CON,NOC,NOC,NOC,CON
+E07000067,Braintree,District,CON,CON,CON,CON,CON
+E07000143,Breckland,District,CON,CON,CON,CON,CON
+E07000068,Brentwood,District,NOC,CON,CON,CON,CON
+E07000144,Broadland,District,CON,CON,CON,CON,CON
+E07000234,Bromsgrove,District,CON,CON,CON,CON,CON
+E07000095,Broxbourne,District,CON,CON,CON,CON,CON
+E07000172,Broxtowe,District,NOC,CON,CON,CON,NOC
+E07000117,Burnley,District,LAB,LAB,LAB,LAB,NOC
+E07000008,Cambridge,District,LAB,LAB,LAB,LAB,LAB
+E07000192,Cannock Chase,District,LAB,LAB,LAB,NOC,NOC
+E07000106,Canterbury,District,CON,CON,CON,CON,CON
+E07000028,Carlisle,District,LAB,LAB,LAB,LAB,NOC
+E07000069,Castle Point,District,NOC,CON,CON,CON,CON
+E07000130,Charnwood,District,CON,CON,CON,CON,CON
+E07000070,Chelmsford,District,CON,CON,CON,CON,LD
+E07000078,Cheltenham,District,LD,LD,LD,LD,LD
+E07000177,Cherwell,District,CON,CON,CON,CON,CON
+E07000034,Chesterfield,District,LAB,LAB,LAB,LAB,LAB
+E07000225,Chichester,District,CON,CON,CON,CON,NOC
+E07000005,Chiltern,District,CON,CON,CON,CON,CON
+E07000118,Chorley,District,LAB,LAB,LAB,LAB,LAB
+E07000048,Christchurch,District,CON,CON,CON,CON,CON
+E07000071,Colchester,District,NOC,NOC,NOC,NOC,NOC
+E07000029,Copeland,District,LAB,LAB,LAB,LAB,LAB
+E07000150,Corby,District,LAB,LAB,LAB,LAB,LAB
+E07000079,Cotswold,District,CON,CON,CON,CON,LD
+E07000163,Craven,District,CON,CON,CON,CON,NOC
+E07000226,Crawley,District,LAB,LAB,LAB,LAB,LAB
+E07000096,Dacorum,District,CON,CON,CON,CON,CON
+E07000107,Dartford,District,CON,CON,CON,CON,CON
+E07000151,Daventry,District,CON,CON,CON,CON,CON
+E07000035,Derbyshire Dales,District,CON,CON,CON,CON,CON
+N09000005,Derry and Strabane,District,NOC,LAB,NOC,NOC,NOC
+E07000108,Dover,District,CON,CON,CON,CON,CON
+E07000009,East Cambridgeshire,District,CON,CON,CON,CON,CON
+E07000040,East Devon,District,CON,CON,CON,CON,NOC
+E07000049,East Dorset,District,CON,CON,CON,CON,N/A
+E07000085,East Hampshire,District,CON,CON,CON,CON,CON
+E07000242,East Herts,District,CON,CON,CON,CON,CON
+E07000137,East Lindsey,District,NOC,CON,CON,CON,CON
+E07000152,East Northamptonshire,District,CON,CON,CON,CON,CON
+E07000193,East Staffordshire,District,NOC,CON,CON,CON,CON
+E07000061,Eastbourne,District,LD,LD,LD,LD,LD
+E07000086,Eastleigh,District,LD,LD,LD,LD,LD
+E07000030,Eden,District,NOC,CON,CON,CON,NOC
+E07000207,Elmbridge,District,CON,CON,NOC,NOC,NOC
+E07000072,Epping Forest,District,CON,CON,CON,CON,CON
+E07000208,Epsom and Ewell,District,RA,RA,RA,RA,IND
+E07000036,Erewash,District,CON,CON,CON,CON,CON
+E07000041,Exeter,District,LAB,LAB,LAB,LAB,LAB
+E07000087,Fareham,District,CON,CON,CON,CON,CON
+E07000010,Fenland,District,CON,CON,CON,CON,CON
+E07000201,Forest Heath,District,CON,CON,CON,CON,N/A
+E07000080,Forest of Dean,District,NOC,NOC,NOC,NOC,NOC
+E07000119,Fylde,District,CON,CON,CON,CON,CON
+E07000173,Gedling,District,LAB,LAB,LAB,LAB,LAB
+E07000081,Gloucester,District,NOC,CON,CON,CON,CON
+E07000088,Gosport,District,CON,CON,CON,CON,CON
+E07000109,Gravesham,District,LAB,CON,CON,CON,LAB
+E07000145,Great Yarmouth,District,NOC,NOC,NOC,NOC,CON
+E07000209,Guildford,District,CON,CON,CON,CON,NOC
+E07000164,Hambleton,District,CON,CON,CON,CON,CON
+E07000131,Harborough,District,CON,CON,CON,CON,CON
+E07000073,Harlow,District,LAB,LAB,LAB,LAB,LAB
+E07000165,Harrogate,District,CON,CON,CON,CON,CON
+E07000089,Hart,District,NOC,NOC,NOC,NOC,NOC
+E07000062,Hastings,District,LAB,LAB,LAB,LAB,LAB
+E07000090,Havant,District,CON,CON,CON,CON,CON
+E07000098,Hertsmere,District,CON,CON,CON,CON,CON
+E07000037,High Peak,District,NOC,CON,CON,CON,LAB
+E07000132,Hinckley and Bosworth,District,LD,CON,CON,CON,LD
+E07000227,Horsham,District,CON,CON,CON,CON,CON
+E07000011,Huntingdonshire,District,CON,CON,CON,CON,CON
+E07000120,Hyndburn,District,LAB,LAB,LAB,CON,LAB
+E07000202,Ipswich,District,LAB,LAB,LAB,LAB,LAB
+E07000153,Kettering,District,CON,CON,CON,CON,CON
+E07000146,King's Lynn and West Norfolk,District,CON,CON,CON,CON,CON
+E07000121,Lancaster,District,NOC,NOC,NOC,NOC,NOC
+E07000063,Lewes,District,NOC,CON,CON,CON,NOC
+E07000194,Lichfield,District,CON,CON,CON,CON,CON
+E07000138,Lincoln,District,LAB,LAB,LAB,LAB,LAB
+E07000110,Maidstone,District,NOC,NOC,NOC,NOC,NOC
+E07000074,Maldon,District,CON,CON,CON,CON,CON
+E07000235,Malvern Hills,District,CON,CON,CON,CON,NOC
+E07000174,Mansfield,District,LAB,LAB,LAB,NOC,NOC
+E07000133,Melton,District,CON,CON,CON,CON,CON
+E07000187,Mendip,District,CON,CON,CON,CON,NOC
+E07000042,Mid Devon,District,CON,CON,CON,CON,NOC
+E07000203,Mid Suffolk,District,CON,CON,CON,CON,NOC
+E07000228,Mid Sussex,District,CON,CON,CON,CON,CON
+E07000210,Mole Valley,District,NOC,CON,CON,CON,LD
+E07000091,New Forest,District,CON,CON,CON,CON,CON
+E07000175,Newark and Sherwood,District,NOC,CON,CON,CON,CON
+E07000195,Newcastle-under-Lyme,District,LAB,NOC,NOC,NOC,NOC
+E07000043,North Devon,District,NOC,NOC,NOC,NOC,LD
+E07000050,North Dorset,District,CON,CON,CON,CON,N/A
+E07000038,North East Derbyshire,District,LAB,LAB,LAB,LAB,CON
+E07000099,North Hertfordshire,District,CON,CON,CON,CON,NOC
+E07000139,North Kesteven,District,CON,CON,CON,CON,NOC
+E07000147,North Norfolk,District,CON,CON,CON,CON,LD
+E07000218,North Warwickshire,District,LAB,CON,CON,CON,CON
+E07000134,North West Leicestershire,District,CON,CON,CON,CON,CON
+E07000154,Northampton,District,CON,CON,CON,CON,CON
+E07000148,Norwich,District,LAB,LAB,LAB,LAB,LAB
+E07000219,Nuneaton and Bedworth,District,LAB,LAB,LAB,LAB,NOC
+E07000135,Oadby and Wigston,District,LD,LD,LD,LD,LD
+E07000178,Oxford,District,LAB,LAB,LAB,LAB,LAB
+E07000122,Pendle,District,NOC,NOC,NOC,NOC,NOC
+E07000123,Preston,District,LAB,LAB,LAB,LAB,LAB
+E07000051,Purbeck,District,NOC,CON,CON,CON,N/A
+E07000236,Redditch,District,LAB,LAB,LAB,LAB,CON
+E07000211,Reigate and Banstead,District,CON,CON,CON,CON,CON
+E07000124,Ribble Valley,District,CON,CON,CON,CON,CON
+E07000166,Richmondshire,District,IND,CON,CON,CON,NOC
+E07000075,Rochford,District,CON,CON,CON,CON,CON
+E07000125,Rossendale,District,LAB,LAB,LAB,LAB,LAB
+E07000064,Rother,District,CON,CON,CON,CON,NOC
+E07000220,Rugby,District,CON,CON,NOC,NOC,CON
+E07000212,Runnymede,District,CON,CON,CON,CON,CON
+E07000176,Rushcliffe,District,CON,CON,CON,CON,CON
+E07000092,Rushmoor,District,CON,CON,CON,CON,CON
+E07000167,Ryedale,District,CON,CON,CON,NOC,NOC
+E07000168,Scarborough,District,NOC,CON,CON,CON,NOC
+E07000188,Sedgemoor,District,CON,CON,CON,CON,CON
+E07000169,Selby,District,CON,CON,CON,CON,CON
+E07000111,Sevenoaks,District,CON,CON,CON,CON,CON
+E07000112,Folkestone and Hythe,District,CON,CON,CON,CON,NOC
+E07000006,South Bucks,District,CON,CON,CON,CON,CON
+E07000012,South Cambridgeshire,District,CON,CON,CON,CON,LD
+E07000039,South Derbyshire,District,CON,CON,CON,CON,CON
+E07000044,South Hams,District,CON,CON,CON,CON,CON
+E07000140,South Holland,District,CON,CON,CON,CON,CON
+E07000141,South Kesteven,District,CON,CON,CON,CON,CON
+E07000031,South Lakeland,District,LD,LD,LD,LD,LD
+E07000149,South Norfolk,District,CON,CON,CON,CON,CON
+E07000155,South Northamptonshire,District,CON,CON,CON,CON,CON
+E07000179,South Oxfordshire,District,CON,CON,CON,CON,NOC
+E07000126,South Ribble,District,CON,CON,CON,CON,NOC
+E07000189,South Somerset,District,LD,NOC,NOC,NOC,LD
+E07000196,South Staffordshire,District,CON,CON,CON,CON,CON
+E07000213,Spelthorne,District,CON,CON,CON,CON,CON
+E07000240,St Albans,District,NOC,CON,CON,CON,NOC
+E07000204,St Edmundsbury,District,CON,CON,CON,CON,N/A
+E07000197,Stafford,District,CON,CON,CON,CON,CON
+E07000198,Staffordshire Moorlands,District,NOC,CON,CON,CON,NOC
+E07000243,Stevenage,District,LAB,LAB,LAB,LAB,LAB
+E07000221,Stratford-on-Avon,District,CON,CON,CON,CON,CON
+E07000082,Stroud,District,NOC,NOC,NOC,NOC,NOC
+E07000205,Suffolk Coastal,District,CON,CON,CON,CON,N/A
+E07000214,Surrey Heath,District,CON,CON,CON,CON,CON
+E07000113,Swale,District,CON,CON,CON,CON,NOC
+E07000199,Tamworth,District,CON,CON,CON,CON,CON
+E07000215,Tandridge,District,CON,CON,CON,CON,NOC
+E07000190,Taunton Deane,District,NOC,CON,CON,CON,N/A
+E07000045,Teignbridge,District,CON,CON,CON,CON,LD
+E07000076,Tendring,District,CON,NOC,NOC,NOC,NOC
+E07000093,Test Valley,District,CON,CON,CON,CON,CON
+E07000083,Tewkesbury,District,CON,CON,CON,CON,CON
+E07000114,Thanet,District,NOC,UKIP,UKIP,UKIP,NOC
+E07000102,Three Rivers,District,LD,NOC,NOC,NOC,LD
+E07000115,Tonbridge and Malling,District,CON,CON,CON,CON,CON
+E07000046,Torridge,District,NOC,CON,CON,CON,NOC
+E07000116,Tunbridge Wells,District,CON,CON,CON,CON,CON
+E07000077,Uttlesford,District,CON,CON,CON,CON,IND
+E07000180,Vale of White Horse,District,CON,CON,CON,CON,LD
+E07000222,Warwick,District,NOC,CON,CON,CON,NOC
+E07000103,Watford,District,LD,LD,LD,LD,LD
+E07000206,Waveney,District,NOC,CON,CON,CON,N/A
+E07000216,Waverley,District,CON,CON,CON,CON,NOC
+E07000065,Wealden,District,CON,CON,CON,CON,CON
+E07000156,Wellingborough,District,CON,CON,CON,CON,CON
+E07000241,Welwyn Hatfield,District,CON,CON,CON,CON,NOC
+E07000047,West Devon,District,CON,CON,CON,CON,CON
+E07000052,West Dorset,District,CON,CON,CON,CON,N/A
+E07000127,West Lancashire,District,NOC,LAB,LAB,LAB,LAB
+E07000142,West Lindsey,District,CON,CON,CON,CON,CON
+E07000181,West Oxfordshire,District,CON,CON,CON,CON,CON
+E07000191,West Somerset,District,CON,CON,CON,CON,N/A
+E07000053,Weymouth and Portland,District,NOC,NOC,NOC,NOC,N/A
+E07000094,Winchester,District,NOC,CON,CON,CON,LD
+E07000217,Woking,District,CON,CON,CON,CON,NOC
+E07000237,Worcester,District,NOC,CON,NOC,NOC,NOC
+E07000229,Worthing,District,CON,CON,CON,CON,CON
+E07000238,Wychavon,District,CON,CON,CON,CON,CON
+E07000007,Wycombe,District,CON,CON,CON,CON,CON
+E07000128,Wyre,District,CON,CON,CON,CON,CON
+E07000239,Wyre Forest,District,NOC,CON,CON,CON,NOC
+,Buckinghamshire,English non-unitary county,CON,CON,CON,CON,CON
+,Cambridgeshire,English non-unitary county,NOC,NOC,NOC,CON,CON
+,Cumbria,English non-unitary county,NOC,NOC,NOC,NOC,NOC
+,Derbyshire,English non-unitary county,LAB,LAB,LAB,CON,CON
+,Devon,English non-unitary county,CON,CON,CON,CON,CON
+,Dorset,English non-unitary county,CON,CON,CON,CON,CON
+,East Sussex,English non-unitary county,NOC,NOC,NOC,CON,CON
+,Essex,English non-unitary county,CON,CON,CON,CON,CON
+,Gloucestershire,English non-unitary county,NOC,NOC,NOC,CON,CON
+,Hampshire,English non-unitary county,CON,CON,CON,CON,CON
+,Hertfordshire,English non-unitary county,CON,CON,CON,CON,CON
+,Kent,English non-unitary county,CON,CON,CON,CON,CON
+,Lancashire,English non-unitary county,NOC,NOC,NOC,CON,CON
+,Leicestershire,English non-unitary county,CON,CON,CON,CON,CON
+,Lincolnshire,English non-unitary county,NOC,NOC,NOC,CON,CON
+,Norfolk,English non-unitary county,NOC,NOC,NOC,CON,CON
+,North Yorkshire,English non-unitary county,CON,CON,CON,CON,CON
+,Northamptonshire,English non-unitary county,CON,CON,CON,CON,CON
+,Nottinghamshire,English non-unitary county,LAB,LAB,LAB,NOC,NOC
+,Oxfordshire,English non-unitary county,NOC,NOC,NOC,NOC,NOC
+,Somerset,English non-unitary county,CON,CON,CON,CON,CON
+,Staffordshire,English non-unitary county,CON,CON,CON,CON,CON
+,Suffolk,English non-unitary county,CON,CON,CON,CON,CON
+,Surrey,English non-unitary county,CON,CON,CON,CON,CON
+,Warwickshire,English non-unitary county,NOC,NOC,NOC,CON,CON
+,West Sussex,English non-unitary county,CON,CON,CON,CON,CON
+,Worcestershire,English non-unitary county,CON,CON,CON,CON,CON
+E09000002,Barking and Dagenham,London Borough,LAB,LAB,LAB,LAB,LAB
+E09000003,Barnet,London Borough,CON,CON,CON,CON,CON
+E09000004,Bexley,London Borough,CON,CON,CON,CON,CON
+E09000005,Brent,London Borough,LAB,LAB,LAB,LAB,LAB
+E09000006,Bromley,London Borough,CON,CON,CON,CON,CON
+E09000007,Camden,London Borough,LAB,LAB,LAB,LAB,LAB
+E09000001,City of London,London Borough,Non-political council,Non-political council,Non-political council,Non-political council,IND
+E09000008,Croydon,London Borough,LAB,LAB,LAB,LAB,LAB
+E09000009,Ealing,London Borough,LAB,LAB,LAB,LAB,LAB
+E09000010,Enfield,London Borough,LAB,LAB,LAB,LAB,LAB
+E09000011,Greenwich,London Borough,LAB,LAB,LAB,LAB,LAB
+E09000012,Hackney,London Borough,LAB,LAB,LAB,LAB,LAB
+E09000013,Hammersmith and Fulham,London Borough,LAB,LAB,LAB,LAB,LAB
+E09000014,Haringey,London Borough,LAB,LAB,LAB,LAB,LAB
+E09000015,Harrow,London Borough,LAB,LAB,LAB,LAB,LAB
+E09000016,Havering,London Borough,NOC,NOC,NOC,NOC,NOC
+E09000017,Hillingdon,London Borough,CON,CON,CON,CON,CON
+E09000018,Hounslow,London Borough,LAB,LAB,LAB,LAB,LAB
+E09000019,Islington,London Borough,LAB,LAB,LAB,LAB,LAB
+E09000020,Kensington and Chelsea,London Borough,CON,CON,CON,CON,CON
+E09000021,Kingston upon Thames,London Borough,CON,CON,CON,CON,LD
+E09000022,Lambeth,London Borough,LAB,LAB,LAB,LAB,LAB
+E09000023,Lewisham,London Borough,LAB,LAB,LAB,LAB,LAB
+E09000024,Merton,London Borough,LAB,LAB,LAB,LAB,LAB
+E09000025,Newham,London Borough,LAB,LAB,LAB,LAB,LAB
+E09000026,Redbridge,London Borough,LAB,LAB,LAB,LAB,LAB
+E09000027,Richmond upon Thames,London Borough,CON,CON,CON,CON,LD
+E09000028,Southwark,London Borough,LAB,LAB,LAB,LAB,LAB
+E09000029,Sutton,London Borough,LD,LD,LD,LD,LD
+E09000030,Tower Hamlets,London Borough,NOC,NOC,LAB,NOC,LAB
+E09000031,Waltham Forest,London Borough,LAB,LAB,LAB,LAB,LAB
+E09000032,Wandsworth,London Borough,CON,CON,CON,CON,CON
+E09000033,Westminster,London Borough,CON,CON,CON,CON,CON
+N09000001,Antrim and Newtownabbey,Northern Irish,NOC,NOC,NOC,NOC,NOC
+N09000011,Ards and North Down,Northern Irish,NOC,NOC,NOC,NOC,NOC
+N09000002,"Armagh, Banbridge and Craigavon",Northern Irish,NOC,NOC,NOC,NOC,NOC
+N09000003,Belfast,Northern Irish,NOC,NOC,NOC,NOC,NOC
+N09000004,Causeway Coast and Glens,Northern Irish,NOC,NOC,NOC,NOC,NOC
+N09000005,Derry and Strabane,Northern Irish,NOC,NOC,NOC,NOC,NOC
+N09000006,Fermanagh and Omagh,Northern Irish,NOC,NOC,NOC,NOC,NOC
+N09000007,Lisburn and Castlereagh,Northern Irish,NOC,NOC,NOC,NOC,NOC
+N09000008,Mid and East Antrim,Northern Irish,NOC,NOC,NOC,NOC,NOC
+N09000009,Mid Ulster,Northern Irish,NOC,NOC,NOC,NOC,NOC
+N09000010,"Newry, Mourne and Down",Northern Irish,NOC,NOC,NOC,NOC,NOC
+S12000033,Aberdeen,Scottish unitary authority,NOC,NOC,NOC,NOC,NOC
+S12000034,Aberdeenshire,Scottish unitary authority,NOC,NOC,NOC,NOC,NOC
+S12000041,Angus,Scottish unitary authority,SNP,SNP,SNP,NOC,NOC
+S12000035,Argyll and Bute,Scottish unitary authority,NOC,NOC,NOC,NOC,NOC
+S12000005,Clackmannanshire,Scottish unitary authority,NOC,NOC,NOC,NOC,NOC
+S12000013,Comhairle nan Eilean Siar,Scottish unitary authority,IND,IND,IND,IND,IND
+S12000006,Dumfries and Galloway,Scottish unitary authority,NOC,NOC,NOC,NOC,NOC
+S12000042,Dundee,Scottish unitary authority,SNP,SNP,SNP,NOC,NOC
+S12000008,East Ayrshire,Scottish unitary authority,NOC,NOC,NOC,NOC,NOC
+S12000045,East Dunbartonshire,Scottish unitary authority,NOC,NOC,NOC,NOC,NOC
+S12000010,East Lothian,Scottish unitary authority,NOC,NOC,NOC,NOC,NOC
+S12000011,East Renfrewshire,Scottish unitary authority,NOC,NOC,NOC,NOC,NOC
+S12000036,Edinburgh,Scottish unitary authority,NOC,NOC,NOC,NOC,NOC
+S12000014,Falkirk,Scottish unitary authority,NOC,NOC,NOC,NOC,NOC
+S12000015,Fife,Scottish unitary authority,NOC,NOC,NOC,NOC,NOC
+S12000046,Glasgow,Scottish unitary authority,LAB,LAB,LAB,NOC,NOC
+S12000017,Highland,Scottish unitary authority,NOC,NOC,NOC,NOC,NOC
+S12000018,Inverclyde,Scottish unitary authority,NOC,NOC,NOC,NOC,NOC
+S12000019,Midlothian,Scottish unitary authority,NOC,NOC,NOC,NOC,NOC
+S12000020,Moray,Scottish unitary authority,NOC,NOC,NOC,NOC,NOC
+S12000021,North Ayrshire,Scottish unitary authority,NOC,NOC,NOC,NOC,NOC
+S12000044,North Lanarkshire,Scottish unitary authority,LAB,LAB,LAB,NOC,NOC
+S12000023,Orkney Islands,Scottish unitary authority,IND,IND,IND,IND,IND
+S12000024,Perth and Kinross,Scottish unitary authority,NOC,NOC,NOC,NOC,NOC
+S12000038,Renfrewshire,Scottish unitary authority,LAB,LAB,LAB,NOC,NOC
+S12000026,Scottish Borders,Scottish unitary authority,NOC,NOC,NOC,NOC,NOC
+S12000027,Shetland Islands,Scottish unitary authority,IND,IND,IND,IND,IND
+S12000028,South Ayrshire,Scottish unitary authority,NOC,NOC,NOC,NOC,NOC
+S12000029,South Lanarkshire,Scottish unitary authority,LAB,LAB,LAB,NOC,NOC
+S12000030,Stirling,Scottish unitary authority,NOC,NOC,NOC,NOC,NOC
+S12000039,West Dunbartonshire,Scottish unitary authority,LAB,LAB,LAB,NOC,NOC
+S12000040,West Lothian,Scottish unitary authority,NOC,NOC,NOC,NOC,NOC
+E06000053,Isles of Scilly,Sui generis unitary,Non-political council,Non-political council,Non-political council,Non-political council,IND
+E08000016,Barnsley,Unitary,LAB,LAB,LAB,LAB,LAB
+E06000022,Bath and North East Somerset,Unitary,NOC,CON,CON,CON,LD
+E06000055,Bedford,Unitary,NOC,NOC,NOC,NOC,NOC
+E08000025,Birmingham,Unitary,LAB,LAB,LAB,LAB,LAB
+E06000008,Blackburn with Darwen,Unitary,LAB,LAB,LAB,LAB,LAB
+E06000009,Blackpool,Unitary,LAB,LAB,LAB,LAB,LAB
+E08000001,Bolton,Unitary,LAB,LAB,LAB,LAB,NOC
+E06000028,Bournemouth,Unitary,CON,CON,CON,CON,N/A
+E06000036,Bracknell Forest,Unitary,CON,CON,CON,CON,CON
+E08000032,Bradford,Unitary,LAB,LAB,LAB,LAB,LAB
+E06000043,Brighton and Hove,Unitary,NOC,NOC,NOC,NOC,NOC
+E06000023,Bristol,Unitary,NOC,NOC,LAB,LAB,LAB
+E08000002,Bury,Unitary,LAB,LAB,LAB,LAB,LAB
+E08000033,Calderdale,Unitary,NOC,NOC,NOC,NOC,LAB
+E06000056,Central Bedfordshire,Unitary,CON,CON,CON,CON,CON
+E06000049,Cheshire East,Unitary,CON,CON,CON,CON,NOC
+E06000050,Cheshire West and Chester,Unitary,CON,LAB,LAB,LAB,NOC
+E06000052,Cornwall,Unitary,NOC,NOC,NOC,NOC,NOC
+E08000026,Coventry,Unitary,LAB,LAB,LAB,LAB,LAB
+E06000005,Darlington,Unitary,LAB,LAB,LAB,LAB,NOC
+E06000015,Derby,Unitary,LAB,LAB,LAB,LAB,NOC
+E08000017,Doncaster,Unitary,LAB,LAB,LAB,LAB,LAB
+E08000027,Dudley,Unitary,LAB,LAB,NOC,NOC,NOC
+E06000047,Durham,Unitary,LAB,LAB,LAB,LAB,LAB
+E06000011,East Riding of Yorkshire,Unitary,CON,CON,CON,CON,CON
+E08000037,Gateshead,Unitary,LAB,LAB,LAB,LAB,LAB
+E06000006,Halton,Unitary,LAB,LAB,LAB,LAB,LAB
+E06000001,Hartlepool,Unitary,LAB,LAB,LAB,LAB,NOC
+E06000019,Herefordshire,Unitary,NOC,CON,CON,CON,NOC
+E06000046,Isle of Wight,Unitary,NOC,NOC,NOC,CON,CON
+E06000010,Kingston-upon-Hull,Unitary,LAB,LAB,LAB,LAB,LAB
+E08000034,Kirklees,Unitary,NOC,NOC,NOC,NOC,LAB
+E08000011,Knowsley,Unitary,LAB,LAB,LAB,LAB,LAB
+E08000035,Leeds,Unitary,LAB,LAB,LAB,LAB,LAB
+E06000016,Leicester,Unitary,LAB,LAB,LAB,LAB,LAB
+E08000012,Liverpool,Unitary,LAB,LAB,LAB,LAB,LAB
+E06000032,Luton,Unitary,LAB,LAB,LAB,LAB,LAB
+E08000003,Manchester,Unitary,LAB,LAB,LAB,LAB,LAB
+E06000035,Medway,Unitary,CON,CON,CON,CON,CON
+E06000002,Middlesbrough,Unitary,LAB,LAB,LAB,LAB,NOC
+E06000042,Milton Keynes,Unitary,NOC,NOC,NOC,NOC,NOC
+E08000021,Newcastle-upon-Tyne,Unitary,LAB,LAB,LAB,LAB,LAB
+E06000012,North East Lincolnshire,Unitary,NOC,NOC,NOC,NOC,CON
+E06000013,North Lincolnshire,Unitary,CON,CON,CON,CON,CON
+E06000024,North Somerset,Unitary,CON,CON,CON,CON,NOC
+E08000022,North Tyneside,Unitary,LAB,LAB,LAB,LAB,LAB
+E06000057,Northumberland,Unitary,NOC,NOC,NOC,NOC,NOC
+E06000018,Nottingham,Unitary,LAB,LAB,LAB,LAB,LAB
+E08000004,Oldham,Unitary,LAB,LAB,LAB,LAB,LAB
+E06000031,Peterborough,Unitary,NOC,NOC,CON,CON,LAB
+E06000026,Plymouth,Unitary,LAB,NOC,NOC,NOC,LAB
+E06000029,Poole,Unitary,NOC,CON,CON,CON,CON
+E06000044,Portsmouth,Unitary,NOC,NOC,NOC,NOC,NOC
+E06000038,Reading,Unitary,LAB,LAB,LAB,LAB,LAB
+E06000003,Redcar and Cleveland,Unitary,NOC,NOC,NOC,NOC,NOC
+E08000005,Rochdale,Unitary,LAB,LAB,LAB,LAB,LAB
+E08000018,Rotherham,Unitary,LAB,LAB,LAB,LAB,LAB
+E06000017,Rutland,Unitary,CON,CON,CON,CON,CON
+E08000006,Salford,Unitary,LAB,LAB,LAB,LAB,LAB
+E08000028,Sandwell,Unitary,LAB,LAB,LAB,LAB,LAB
+E08000014,Sefton,Unitary,LAB,LAB,LAB,LAB,LAB
+E08000019,Sheffield,Unitary,LAB,LAB,LAB,LAB,LAB
+E06000051,Shropshire,Unitary,CON,CON,CON,CON,CON
+E06000039,Slough,Unitary,LAB,LAB,LAB,LAB,LAB
+E08000029,Solihull,Unitary,CON,CON,CON,CON,CON
+E06000025,South Gloucestershire,Unitary,NOC,CON,CON,CON,CON
+E08000023,South Tyneside,Unitary,LAB,LAB,LAB,LAB,LAB
+E06000045,Southampton,Unitary,LAB,LAB,LAB,LAB,LAB
+E06000033,Southend-on-Sea,Unitary,NOC,NOC,NOC,NOC,NOC
+E08000013,St Helens,Unitary,LAB,LAB,LAB,LAB,LAB
+E08000007,Stockport,Unitary,NOC,NOC,NOC,NOC,NOC
+E06000004,Stockton-on-Tees,Unitary,NOC,LAB,LAB,LAB,NOC
+E06000021,Stoke-on-Trent,Unitary,LAB,NOC,NOC,NOC,NOC
+E08000024,Sunderland,Unitary,LAB,LAB,LAB,LAB,LAB
+E06000030,Swindon,Unitary,CON,CON,CON,CON,NOC
+E08000008,Tameside,Unitary,LAB,LAB,LAB,LAB,LAB
+E06000020,Telford and Wrekin,Unitary,LAB,LAB,NOC,LAB,LAB
+E06000034,Thurrock,Unitary,NOC,NOC,NOC,NOC,CON
+E06000027,Torbay,Unitary,CON,CON,CON,CON,NOC
+E08000009,Trafford,Unitary,CON,CON,CON,CON,LAB
+E08000036,Wakefield,Unitary,LAB,LAB,LAB,LAB,LAB
+E08000030,Walsall,Unitary,NOC,NOC,NOC,NOC,CON
+E06000007,Warrington,Unitary,LAB,LAB,LAB,LAB,LAB
+E06000037,West Berkshire,Unitary,CON,CON,CON,CON,CON
+E08000010,Wigan,Unitary,LAB,LAB,LAB,LAB,LAB
+E06000054,Wiltshire,Unitary,CON,CON,CON,CON,CON
+E06000040,Windsor and Maidenhead,Unitary,CON,CON,CON,CON,CON
+E08000015,Wirral,Unitary,LAB,LAB,LAB,LAB,NOC
+E06000041,Wokingham,Unitary,CON,CON,CON,CON,CON
+E08000031,Wolverhampton,Unitary,LAB,LAB,LAB,LAB,LAB
+E06000014,York,Unitary,NOC,NOC,NOC,NOC,NOC
+W06000019,Blaenau Gwent,Welsh unitary authority,LAB,LAB,LAB,IND,IND
+W06000013,Bridgend,Welsh unitary authority,LAB,LAB,LAB,NOC,NOC
+W06000018,Caerphilly,Welsh unitary authority,LAB,LAB,LAB,LAB,LAB
+W06000015,Cardiff,Welsh unitary authority,LAB,LAB,LAB,LAB,LAB
+W06000010,Carmarthenshire,Welsh unitary authority,NOC,NOC,NOC,NOC,NOC
+W06000008,Ceredigion,Welsh unitary authority,NOC,NOC,NOC,NOC,NOC
+W06000003,Conwy,Welsh unitary authority,NOC,NOC,NOC,NOC,NOC
+W06000002,Cyngor Gwynedd,Welsh unitary authority,NOC,NOC,PLAID,PLAID,PC
+W06000004,Denbighshire,Welsh unitary authority,NOC,NOC,NOC,NOC,NOC
+W06000005,Flintshire,Welsh unitary authority,NOC,NOC,NOC,NOC,NOC
+W06000001,Isle of Anglesey,Welsh unitary authority,NOC,NOC,NOC,NOC,NOC
+W06000024,Merthyr Tydfil,Welsh unitary authority,LAB,LAB,LAB,IND,IND
+W06000021,Monmouthshire,Welsh unitary authority,NOC,NOC,NOC,CONS,CON
+W06000012,Neath Port Talbot,Welsh unitary authority,LAB,LAB,LAB,LAB,LAB
+W06000022,Newport,Welsh unitary authority,LAB,LAB,LAB,LAB,LAB
+W06000009,Pembrokeshire,Welsh unitary authority,IND,IND,IND,IND,NOC
+W06000023,Powys,Welsh unitary authority,IND,IND,IND,NOC,NOC
+W06000016,Rhondda Cynon Taf,Welsh unitary authority,LAB,LAB,LAB,LAB,LAB
+W06000011,Swansea,Welsh unitary authority,LAB,LAB,LAB,LAB,LAB
+W06000020,Torfaen,Welsh unitary authority,LAB,LAB,LAB,LAB,LAB
+W06000014,Vale of Glamorgan,Welsh unitary authority,NOC,NOC,NOC,NOC,NOC
+W06000006,Wrexham,Welsh unitary authority,NOC,NOC,NOC,NOC,NOC
+E07000026,Allerdale,,,,,,NOC
+E06000058,"Bournemouth, Christchurch and Poole",,,,,,NOC
+E06000059,Dorset,,,,,,CON
+E07000244,East Suffolk,,,,,,CON
+S12000047,Fife,,,,,,NOC
+S12000049,Glasgow City,,,,,,NOC
+S12000050,North Lanarkshire,,,,,,NOC
+S12000048,Perth and Kinross,,,,,,NOC
+E07000246,Somerset West and Taunton,,,,,,LD
+E07000245,West Suffolk,,,,,,CON
